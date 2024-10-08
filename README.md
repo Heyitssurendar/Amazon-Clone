@@ -1,4 +1,4 @@
-# Amazon-Clone
+# ✨Amazon-Clone✨
 
 <P>
 I developed a front-end Amazon clone website using HTML, CSS, and JavaScript to replicate the core features of the Amazon marketplace.
